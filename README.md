@@ -1,5 +1,4 @@
 # 🔷 3D Dark Themed Dashboard UI
-![Uploading qZGKqrOBo4.png…]()
 
 This is a modern, dark-themed admin dashboard with smooth 3D-style UI effects and interactive data components.
 
@@ -19,7 +18,5 @@ This is a modern, dark-themed admin dashboard with smooth 3D-style UI effects an
 - Custom SCSS / TailwindCSS (if used)
 
 ## 📸 Preview
-
-![Dashboard Preview](./your-screenshot.png)
-
+![qZGKqrOBo4](https://github.com/user-attachments/assets/74bfda4c-8de0-4805-b7f0-23bbb519b16e)
 
