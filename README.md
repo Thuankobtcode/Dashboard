@@ -1,22 +1,22 @@
-# 🔷 3D Dark Themed Dashboard UI
+<h1 align="center">📊 Dashboard</h1>
 
-This is a modern, dark-themed admin dashboard with smooth 3D-style UI effects and interactive data components.
+<p align="center">
+  A modern and elegant 3D-style admin dashboard, built with <strong>React + TypeScript</strong>, powered by <strong>Vite</strong> and <strong>Tailwind CSS</strong>. <br/>
+  Designed for beauty, performance, and real-world usability.
+</p>
 
-## ✨ Features
+![qZGKqrOBo4](https://github.com/user-attachments/assets/31416ee2-b642-42e5-9fa4-88352f0adc27)
 
-- Dark mode with clean and minimal design
-- Interactive 3D-style charts and cards
-- Dynamic data visualizations
-- Fully responsive layout
-- Smooth animations
 
-## 🚀 Technologies Used
+---
 
-- HTML5 / CSS3 / JavaScript
-- [Your JS framework if used, e.g., React, Vue]
-- Charting library: [e.g., Chart.js / ApexCharts / ECharts]
-- Custom SCSS / TailwindCSS (if used)
+## 🚀 Features
 
-## 📸 Preview
-![qZGKqrOBo4](https://github.com/user-attachments/assets/74bfda4c-8de0-4805-b7f0-23bbb519b16e)
+- 💡 Clean dark UI with 3D-style visuals
+- 📈 Dynamic charts and project timelines
+- 🔍 Responsive layout, mobile-friendly
+- ⚙️ Built with Vite, React, TypeScript, and Tailwind CSS
+- 🎯 Lucide icons integration – lightweight and scalable
+
+## 📁 Project Structure
 
