@@ -1,4 +1,5 @@
 # 🔷 3D Dark Themed Dashboard UI
+![Uploading qZGKqrOBo4.png…]()
 
 This is a modern, dark-themed admin dashboard with smooth 3D-style UI effects and interactive data components.
 
@@ -21,13 +22,4 @@ This is a modern, dark-themed admin dashboard with smooth 3D-style UI effects an
 
 ![Dashboard Preview](./your-screenshot.png)
 
-## 🛠️ Setup
 
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the folder
-cd your-repo
-
-# Open with Live Server or your preferred development tool
